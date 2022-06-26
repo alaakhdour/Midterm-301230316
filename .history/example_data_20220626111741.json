@@ -1,0 +1,21 @@
+{
+    "books":
+    [
+        {
+            "Title" : "Book Lovers",
+            "Author" : "Emily Henry",
+            "Description" : "An insightful, delightful, instant #1 New York Times bestseller from the author of Beach Read and People We Meet on Vacation.",
+            "Genre": "Romance",
+            "Price" : 14.99
+        },
+
+        {
+            "Title" : "The Hag",
+            "Author" : "Marc Eliot",
+            "Description" : "Merle Haggard's story is a great American saga of a man who lifted himself out of poverty, oppression, loss and wanderlust, to catapult himself into the pantheon of American artists admired around the world",
+            "Genre": "Music",
+            "Price" : 24.00
+        }
+
+    ]
+}
