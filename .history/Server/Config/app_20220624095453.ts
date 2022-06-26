@@ -1,7 +1,3 @@
-//COMP229 Midterm - 3rd semester
-//Alaa Alkhdour
-//301230316
-
 // modules for node and express
 import createError from 'http-errors';
 import express from 'express';

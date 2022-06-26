@@ -1,7 +1,3 @@
-//COMP229 Midterm - 3rd semester
-//Alaa Alkhdour
-//301230316
-
 import mongoose from 'mongoose';
 const Schema = mongoose.Schema; // Schema alias
 
