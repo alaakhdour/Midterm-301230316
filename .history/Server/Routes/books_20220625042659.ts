@@ -97,7 +97,7 @@ router.post('/edit/:id', (req, res, next) => {
       "Genre": req.body.genre
     });
 
-    
+    //update the info from book object in the database
     book.updateOne({_id: id}, updateBook, function(err: ErrorCallback){
       if(err){
           console.error(err);
@@ -120,7 +120,7 @@ router.get('/delete/:id', (req, res, next) => {
           res.end(err);
       }
 
-     
+      //delete successful
       res.redirect('/books');
   });
 });
